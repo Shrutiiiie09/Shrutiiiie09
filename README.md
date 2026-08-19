@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Looking for guidance and collaboration in AI, IoT, cloud integration, and deploying projects.**
 
-- 👨‍💻 All of my projects are available at [GitHub: https://github.com/Shrutiiiie09](GitHub: https://github.com/Shrutiiiie09)
+- 👨‍💻 All of my projects are available at [GitHub: https://github.com/Shrutiiiie09]
 
 - 💬 Ask me about **Java, Cloud Computing, IoT, AI, Git & GitHub, and student projects**
 
