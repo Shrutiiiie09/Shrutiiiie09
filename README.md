@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Shevade</h1>
 <h3 align="center">A passionate frontend/ backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutiiiie09" alt="shrutiiiie09" /></a> </p>
+
 
 - 🌱 I’m currently learning **Core concepts of cloud computing, DSA, etc**
 
