@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Core concepts of cloud computing, DSA, etc**
+- 🌱 I’m currently learning **Core concepts of cloud computing, DSA....
 
 - 👯 I’m looking to collaborate on [I’m interested in collaborating on projects that solve real-world problems using technology.](Open to collaboration 🚀)
 
